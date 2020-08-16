@@ -6,7 +6,7 @@ So it turns out that there are multiple ways of polling Active Directory for cha
 
 Example of output after granting someone privileges to add Group Policies:
 
-![image-20200816192857445](/Users/riccardo/Desktop/repositories/DirSync-Poc/assets/image-20200816192857445.png)
+![image-20200816192857445](assets/image-20200816192857445.png)
 
 This you might have noticed:
 
