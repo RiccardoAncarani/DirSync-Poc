@@ -12,6 +12,7 @@ This you might have noticed:
 
 - You don't see the exact attribute that was modified
 - You don't see who performed that action
+- ACL parsing logic was completely stolen from SharpHound. Life is too short.
 
 So how can you use this?
 
